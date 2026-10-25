@@ -184,4 +184,4 @@ MIT — free to use and modify.
 
 ---
 
-<p align="center">Made with ☕ and memes · <i>You scanned it. You now know too much.</i> 👀</p>
+<p align="center">Made with ☕ Priyanshu · <i>You scanned it. You now know too much.</i> 👀</p>
