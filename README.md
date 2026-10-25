@@ -1,5 +1,5 @@
 # 🪪 Official Legend ID™ — QR Code ID Card System
-
+ 
 > Scan the QR on an ID card → see the person's profile instantly.
 > Built with **Next.js** + **Supabase**. Works on every phone & tablet. 📱
 
